@@ -12,8 +12,9 @@ My first project Arduino
 * Two Mini breadboard
 
 ## Example
-![alt tag](https://raw.githubusercontent.com/RicardoSette/NodeMCU-ESP8266-Nokia5110-DHT11-DS18B20/master/nodemcuTemp1%2BTemp2%2BHumid%2BNokia5110_bb.png)
+![Screen example](https://raw.githubusercontent.com/RicardoSette/NodeMCU-ESP8266-Nokia5110-DHT11-DS18B20/master/Example.png)
 
+![fritzing](https://raw.githubusercontent.com/RicardoSette/NodeMCU-ESP8266-Nokia5110-DHT11-DS18B20/master/nodemcuTemp1%2BTemp2%2BHumid%2BNokia5110_bb.png)
 
 ## License
 
