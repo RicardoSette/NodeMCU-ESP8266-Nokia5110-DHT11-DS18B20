@@ -11,6 +11,9 @@ My first project Arduino
 * 20 Jumper Wire
 * Two Mini breadboard
 
+## ThingSpeak public channel
+https://thingspeak.com/channels/105555
+
 ## Example
 ![Screen example](https://raw.githubusercontent.com/RicardoSette/NodeMCU-ESP8266-Nokia5110-DHT11-DS18B20/master/Example.png)
 
